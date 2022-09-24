@@ -5,3 +5,7 @@ The AMaze is generated with recursive backtracking. Using the Stack abstract dat
 
 Using the Djikstra's algorithm, AMaze finds the shortest path between two nodes by calculating the minimum cost to travel to all possible direction. The Queue abstract data structure kepps track of the shortest path and trace the path backwards after reaching the final destination.
 
+
+
+https://user-images.githubusercontent.com/87709055/192116515-387136c5-3bb9-4126-9fd6-5481310f8b5b.MOV
+
