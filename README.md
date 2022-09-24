@@ -7,7 +7,5 @@ Using the Djikstra's algorithm, AMaze finds the shortest path between two nodes 
 
 
 
+https://user-images.githubusercontent.com/87709055/192116644-3b65e45e-1b8d-41ca-b442-cffd9f113b1d.MOV
 
-https://user-images.githubusercontent.com/87709055/192116535-445dc054-b8f4-4fad-92ab-c5060db03e93.MOV
-
-![AMaze](https://user-images.githubusercontent.com/87709055/192116593-c3407810-1da3-4790-8527-fd2419f9cdb0.gif)
