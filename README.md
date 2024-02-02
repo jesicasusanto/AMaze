@@ -14,10 +14,7 @@ The project is implemented with Python and Tkinter library.
 Launch the application
 Select the option to generate a new maze or input an existing maze
 Select the start and end points for the solver
-Watch as the solver calculates the shortest path through the maze
-
-# Contributing
-Feel free to submit a pull request if you'd like to contribute to the project.
+Watch as the solver calculates the shortest path through the maze.
 
 
 
